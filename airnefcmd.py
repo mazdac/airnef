@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 #
 #############################################################################
@@ -37,6 +37,7 @@ from applog import *
 import rename
 import ssdp
 import subprocess
+import re
 
 #
 # constants
